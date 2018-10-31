@@ -1,8 +1,8 @@
-package loadbalance
+package loadbalancer
 
 /*
 IPing defines the interface of ping
 */
 type IPing interface {
-	IsAlive(server Server) bool
+	IsAlive(server IServer) bool
 }

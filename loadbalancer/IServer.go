@@ -1,11 +1,11 @@
-package loadbalance
+package loadbalancer
 
 /*
 IServer is the interface of a server
 */
 type IServer interface {
-	SetMetaInfo(Meta)
-	GetMetaInfo() Meta
+	SetMetaInfo(meta)
+	GetMetaInfo() meta
 	SetAliveFlag(isAliveFlag bool)
 	IsAlive() bool
 }
