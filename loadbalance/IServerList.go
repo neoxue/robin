@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IServerList defines the interface of ld's serverlist

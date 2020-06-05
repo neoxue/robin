@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IRule defines the Rule of a loadbalancer;

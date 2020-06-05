@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IServer is the interface of a server

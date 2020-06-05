@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IClientConfigKey defines the interface of the key

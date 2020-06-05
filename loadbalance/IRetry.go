@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IRetry defines the interface of the retry rule

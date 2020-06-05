@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 ILoadBalancer defines the rule of choosing a appropriate server to initialize a call

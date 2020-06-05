@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 meta is the meta info of lb's server

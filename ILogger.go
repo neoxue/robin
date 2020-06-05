@@ -1,9 +1,4 @@
-package loadbalancer
-
-/*
-ILogger defines the logger interface, and use logrus as default
-5 level's logs and
-*/
+package robin
 
 type ILogger interface {
 	Debug(v ...interface{})

@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IResponse fetch the response

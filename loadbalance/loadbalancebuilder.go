@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 loadbalancerbuilder build a loadbalancer

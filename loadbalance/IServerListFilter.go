@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 type IServerListFilter interface {
 	GetFilteredListOfServers() []IServer

@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IClientConfig defines the client configuration used by various APIs to initialize clients or load balancers

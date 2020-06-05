@@ -1,4 +1,4 @@
-package loadbalancer
+package loadbalance
 
 /*
 IPing defines the interface of ping
